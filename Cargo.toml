@@ -25,7 +25,7 @@ std = ["ufmt-write/std"]
 name = "vs-std-write"
 required-features = ["std"]
 
-[workspace]
+#[workspace]
 members = [
   "macros",
   "utils",
